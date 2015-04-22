@@ -1,0 +1,189 @@
+[14-Jul-2014 13:12:03] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 13:13:06] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 13:21:49] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 13:30:23] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 13:46:28] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 13:52:46] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 13:54:34] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 14:14:27] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 14:19:52] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 14:34:19] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 14:40:58] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 14:44:51] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 14:50:03] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:01:28] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:05:00] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:12:28] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:22:32] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:29:12] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:35:17] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:51:32] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:56:02] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 15:58:59] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 16:01:22] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 16:07:44] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 16:10:30] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 16:11:12] PHP Notice:  Undefined variable: btnvalue in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 62
+[14-Jul-2014 16:12:44] PHP Notice:  Undefined variable: id in /home/codercom/public_html/demo/1CM/Web_Manage/news/save.php on line 63
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406199045.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 148
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406199045.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406199045.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406199045.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[24-Jul-2014 18:50:45 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538377.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 148
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538377.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538377.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538377.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:06:17 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538400.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 148
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538400.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538400.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538400.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:06:40 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538428.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 148
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538428.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538428.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538428.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:07:08 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538483.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 148
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538483.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538483.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538483.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:08:03 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538508.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 148
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538508.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538508.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538508.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:08:28 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538674.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 148
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538674.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538674.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): gd-jpeg: JPEG library reports unrecoverable error:  in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecreatefromjpeg(): '../../upload/news/1406538674.jpg' is not a valid JPEG file in /home/onecenti/public_html/inc/_imgupload.php on line 116
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 2 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 265
+[28-Jul-2014 17:11:14 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_w in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_h in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/onecenti/public_html/inc/_imgupload.php on line 199
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 200
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Warning:  imagefill() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 201
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 202
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 131
+[04-Aug-2014 12:26:22 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 270
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_w in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_h in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/onecenti/public_html/inc/_imgupload.php on line 199
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 200
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Warning:  imagefill() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 201
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 202
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 131
+[04-Aug-2014 12:27:01 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 270
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_w in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_h in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/onecenti/public_html/inc/_imgupload.php on line 199
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 200
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Warning:  imagefill() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 201
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 202
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 131
+[04-Aug-2014 12:27:22 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 270
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_w in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_h in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/onecenti/public_html/inc/_imgupload.php on line 199
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 200
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Warning:  imagefill() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 201
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 202
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 131
+[04-Aug-2014 12:28:33 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 270
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_w in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_h in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/onecenti/public_html/inc/_imgupload.php on line 199
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 200
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Warning:  imagefill() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 201
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 202
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Warning:  imagejpeg() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 131
+[04-Aug-2014 12:29:24 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 270
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_w in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Notice:  Undefined variable: news_mostpic_h in /home/onecenti/public_html/Web_Manage/news/uploadify.php on line 20
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagecreatefrompng(): '../../upload/newscontent/1407126639twtmts.png' is not a valid PNG file in /home/onecenti/public_html/inc/_imgupload.php on line 114
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /home/onecenti/public_html/inc/_imgupload.php on line 199
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 200
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagefill() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 201
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 202
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagepng() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 127
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 269
+[04-Aug-2014 12:30:39 Asia/Taipei] PHP Warning:  imagedestroy() expects parameter 1 to be resource, boolean given in /home/onecenti/public_html/inc/_imgupload.php on line 270

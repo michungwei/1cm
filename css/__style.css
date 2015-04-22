@@ -1,0 +1,196 @@
+/*圖標*/
+
+.ic {
+	background: url(../images/ic.png);
+	display: inline-block;
+}
+.blogo {
+	Background-position: -0px -0px;
+	height: 51px;
+	width: 198px;
+}
+
+.blogo a{
+	display:block;
+	height: 51px;
+    width: 198px;
+
+}
+.arror {
+	Background-position: -0px -51px;
+	height: 44px;
+	width: 14px;
+	float:right;
+}
+.fblike  {
+	Background-position: -0px -95px;
+	height: 27px;
+	width: 75px;
+}
+
+.fblike a{
+	height: 27px;
+	width: 75px;
+	display:block;
+}
+
+.sicon {
+	cursor : pointer;
+	Background-position: -0px -174px;
+	height: 15px;
+	width: 130px;
+	margin-left:20px;
+}
+.sicon a{
+	display:block;
+	height: 15px;
+	width: 130px;
+	text-indent:-9999px;
+}
+.linemenu{
+	Background-position: -80px -96px;
+	height: 15px;
+	width: 21px;
+}
+
+.slogo03{
+	Background-position: -80px -60px;
+	height: 29px;
+	width: 105px;
+}
+
+.slogo03 a{
+	display:block;
+	height: 29px;
+	width: 105px;
+}
+
+
+.fb, .instagram, .email, .slogo, .fblike, .heart .mfb .minstagram {
+	text-indent:-9999px;
+}
+.fb {
+	Background-position: -0px -122px;
+	height: 26px;
+	width: 27px;
+}
+.mfb {
+	Background-position: -0px -122px;
+	height: 20px;
+	width: 20px;
+}
+.instagram {
+	Background-position: -0px -148px;
+	height: 26px;
+	width: 27px;
+}
+.minstagram {
+	Background-position: -0px -148px;
+	height: 20px;
+	width: 20px;
+}
+.slogo02 {
+	Background-position: -0px -195px;
+	height: 23px;
+	width: 69px;
+}
+.slogo {
+	Background-position: -0px -195px;
+	height: 23px;
+	width: 91px;
+}
+.email {
+	Background-position: -0px -218px;
+	height: 22px;
+	width: 25px;
+}
+.lineicon{
+	Background-position: -29px -148px;
+	height: 25px;
+	width: 25px;
+}
+.day {
+	Background-position: -0px -240px;
+	height: 18px;
+	width: 16px;
+	margin-right:10px;
+}
+.day_while {
+	Background-position: -0px -258px;
+	height: 18px;
+	width: 16px;
+	margin-right:10px;
+	float:left;
+}
+.search {
+	Background-position: -0px -276px;
+	height: 15px;
+	width: 15px;
+	margin-top:5px;
+}
+.heart {
+	Background-position: -0px -292px;
+	height: 15px;
+	width: 17px;
+	margin-right:5px;
+}
+
+.likeit{
+	Background-position: -0px -320px;
+	height: 17px;
+	width: 93px;
+	text-indent:-9999px;
+	margin-left:10px;
+}
+.shareit{
+	Background-position: -0px -350px;
+	height: 21px;
+	width: 105px;
+	text-indent:-9999px;
+	margin-left:10px;
+	margin-top:6px;
+}
+.left_arror{
+	Background-position: -0px -380px;
+	height: 87px;
+	width: 31px;
+	text-indent:-9999px;
+}
+.right_arror{
+	Background-position: -40px -380px;
+	height: 87px;
+	width: 31px;
+	text-indent:-9999px;
+}
+
+.maylike{
+	Background-position: -0px -472px;
+	height: 23px;
+	width: 319px;
+	text-indent:-9999px;
+}
+.most{
+	Background-position: -0px -499px;
+	height: 23px;
+	width: 326px;
+	text-indent:-9999px;
+}
+
+.sfb{
+	Background-position: -0px -530px;
+	height: 18px;
+	width: 61px;
+	text-indent:-9999px;
+}
+.sshare{
+	Background-position: -0px -556px;
+	height: 18px;
+	width: 61px;
+	text-indent:-9999px;
+}
+.sheart{
+	Background-position: -0px -578px;
+	height:12px;
+	width: 12px;
+	margin-right:5px;
+}

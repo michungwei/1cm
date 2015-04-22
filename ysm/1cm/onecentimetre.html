@@ -1,0 +1,508 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="keywords" content="知識,1cm,探索,文章,新聞" />
+	<meta name="description" content="「1cm – 品味生活探索網站」 - 多1公分的視野，體驗更多原創分享。" />
+	<meta name="author" content="
+Notice: Undefined variable: author in /home/haisin/www/index.php on line 82
+" />
+	<meta name="copyright" content="1CM © 2014" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>1CM生活品味探索網站</title>
+	<link rel="stylesheet" href="http://onecentimetre.com/css/normalize.css">
+	<link rel="stylesheet" href="http://onecentimetre.com/css/style.css">
+	<link rel="stylesheet" href="http://onecentimetre.com/css/bootstrap.css">
+    <link rel="icon" href="http://onecentimetre.com/images/1cm_icon.png" type="image/png" />
+    <link rel="stylesheet" href="http://onecentimetre.com/scripts/fancybox/jquery.fancybox.css">
+	<script src="http://onecentimetre.com/scripts/jquery-1.9.1.js"></script>
+	<script src="http://onecentimetre.com/scripts/bootstrap.js"></script>
+	<script src="http://onecentimetre.com/scripts/all.js"></script>
+    <script src="http://onecentimetre.com/scripts/search.js"></script>
+    <script src="http://onecentimetre.com/scripts/fancybox/jquery.fancybox.js"></script>
+    <script>
+    	$(function(){
+    		$('.fancybox').fancybox({
+    			"autoWidth": "true",
+    			"autoHeight": "true",
+    			"openEffect": "elastic",
+    			"closeEffect": "elastic",
+    		});
+    	});
+    </script>
+</head>
+<body>
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.0";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
+	<div id="wrapper">
+		<!-- <div class="scroll_top50 hidden-mobile hidden-tablet">
+			<a href="javascript: void(0)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image1','','images/scroll_topover.png')"><img src="images/scroll_top.png" height="80" width="80" name="image1" alt=""></a>
+		</div>
+		<div class="scroll_top90 hidden-mobile hidden-tablet">
+			<a href="javascript: void(0)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image2','','images/scroll_topover.png')"><img src="images/scroll_top.png" height="80" width="80" name="image2" alt=""></a>
+		</div> -->
+		<ul class="mobile-list">
+			<li class="mobileClose"><img src="http://onecentimetre.com/images/mobileClose.png" height="31" width="31" alt=""></li>
+							<li>
+					<a href="http://onecentimetre.com/news.php?ntid=1">
+						探索					</a>
+				</li>
+							<li>
+					<a href="http://onecentimetre.com/news.php?ntid=2">
+						新奇					</a>
+				</li>
+							<li>
+					<a href="http://onecentimetre.com/news.php?ntid=3">
+						品味					</a>
+				</li>
+							<li>
+					<a href="http://onecentimetre.com/news.php?ntid=4">
+						故事					</a>
+				</li>
+					</ul>
+		<header id="header">
+			<!-- <nav class="headerL hidden-mobile">
+				<span><a href="about.php">ABOUT</a></span>
+				<span><a href="news_type.php">NEWS</a></span>
+			</nav>
+			<div class="headerC">
+				<p><a href="index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imagelogo','','images/logoover.png')"><img src="images/logo.png" alt="" name="imagelogo"></a></p>
+			</div>
+			<div class="headerR hidden-mobile">
+				<div class="search">
+					<input type="text" id="search" name="search" value="search">
+					<p class="btn" id="search_btn" onClick="search()"><img src="images/search_btn.png" alt=""></p>
+				</div>
+				<span class="hidden-tablet"><a href="https://www.facebook.com/pages/1cm/761735067202346" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imagefb','','images/icon_fbover.png')"><img src="images/icon_fb.png" alt="" name="imagefb"></a></span>
+				<span class="hidden-tablet"><a href="http://instagram.com/1___cm" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imageinsta','','images/icon_instaover.png')"><img src="images/icon_insta.png" alt="" name="imageinsta"></a></span>
+			</div> -->
+			<div class="headerC">
+				<p><a href="http://onecentimetre.com/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imagelogo','','images/logoover.png')"><img src="http://onecentimetre.com/images/logo.png" alt="" name="imagelogo"></a></p>
+			</div>
+			<nav class="headerL hidden-mobile">
+									<span><a href="http://onecentimetre.com/news.php?ntid=1">探索</a></span>
+									<span><a href="http://onecentimetre.com/news.php?ntid=2">新奇</a></span>
+									<span><a href="http://onecentimetre.com/news.php?ntid=3">品味</a></span>
+									<span><a href="http://onecentimetre.com/news.php?ntid=4">故事</a></span>
+							</nav>
+			<div class="headerR hidden-mobile">
+				<div class="search">
+					<input type="text" id="search" name="search" value="search">
+					<p class="btn" id="search_btn" onClick="search()"><img src="http://onecentimetre.com/images/search_btn.png" alt=""></p>
+				</div>
+				<span class="hidden-tablet"><a href="https://www.facebook.com/pages/1cm/761735067202346" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imagefb','','images/icon_fbover.png')"><img src="http://onecentimetre.com/images/icon_fb.png" alt="" name="imagefb"></a></span>
+				<span class="hidden-tablet"><a href="http://instagram.com/1___cm" target="_blank" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imageinsta','','images/icon_instaover.png')"><img src="http://onecentimetre.com/images/icon_insta.png" alt="" name="imageinsta"></a></span>
+			</div>
+			<div class="mobile-switch visible-mobile"></div>
+			<div class="mobile-fb visible-mobile"><a href="https://www.facebook.com/pages/1cm/761735067202346" target="_blank"><img src="http://onecentimetre.com/images/icon_fb.png" alt=""></a></div>
+			<div class="mobile-insta visible-mobile"><a href="http://instagram.com/1___cm" target="_blank"><img src="http://onecentimetre.com/images/icon_insta.png" alt=""></a></div>
+		</header>
+
+		<section id="content">
+			<div class="subtitle"><img src="http://onecentimetre.com/images/subtitle.png" alt=""></div>
+			<div class="subtitle-advtise">
+				<div class="subtitle-advtiseL">
+                    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_全站_728x90_上 --><ins class="adsbygoogle"     style="display:block;width:720px;height:90px"     data-ad-region= "test"     data-ad-client="ca-pub-3087926956353178"     data-ad-host="ca-host-pub-7475939466736018"     data-ad-slot="5006999244"     data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>				</div>
+				<div class="subtitle-advtiseR hidden-mobile">
+					<p class="title hidden-tablet">按下讚與我們一起探索知識的無窮！</p>
+					<p class="title visible-tablet">按下讚探索知識的無窮！</p>
+					<iframe class="visible-tablet" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2F1cm%2F761735067202346&amp;width=275&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:275px; height:21px;" allowTransparency="true"></iframe>
+
+					<iframe class="top-right-fb-like-button fb_iframe_widget hidden-tablet" src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2F1cm%2F761735067202346&amp;locale=en_US&amp;width=275&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:275px; height:21px;" allowTransparency="true"></iframe>
+				</div>
+			</div>
+			<div class="banner"  >
+				<div class="fblike hidden-mobile hidden-tablet">
+					<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2F1cm%2F761735067202346&amp;width=40&amp;layout=box_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:65px;" allowTransparency="true"></iframe>
+					<div class="fb-share-button" data-href="https://www.facebook.com/pages/1cm/761735067202346" data-width="40" data-type="box_count"></div>
+				</div>
+				<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+				  	<ol class="carousel-indicators hidden-mobile hidden-tablet">
+                        					    <li data-target="#carousel-example-generic" class="active" data-slide-to="0"></li>
+                        					    <li data-target="#carousel-example-generic"  data-slide-to="1"></li>
+                        					    <li data-target="#carousel-example-generic"  data-slide-to="2"></li>
+                        					    <li data-target="#carousel-example-generic"  data-slide-to="3"></li>
+                        					    <li data-target="#carousel-example-generic"  data-slide-to="4"></li>
+                        				  	</ol>
+				  	<div class="carousel-inner">
+
+                    					    <div class="item active"><!--active-->
+						    <a href="http://onecentimetre.com/news_detail.php?nid=391"target="_blank"><img src="http://onecentimetre.com/upload/banner_b/1410489932.png" alt=""></a>					    </div>
+                    					    <div class="item "><!--active-->
+						    <a href="http://onecentimetre.com/news_detail.php?nid=363"target="_blank"><img src="http://onecentimetre.com/upload/banner_b/1410490085.png" alt=""></a>					    </div>
+                    					    <div class="item "><!--active-->
+						    <a href="http://onecentimetre.com/news_detail.php?nid=286"target="_blank"><img src="http://onecentimetre.com/upload/banner_b/1410490018.png" alt=""></a>					    </div>
+                    					    <div class="item "><!--active-->
+						    <a href="http://onecentimetre.com/news_detail.php?nid=398"target="_blank"><img src="http://onecentimetre.com/upload/banner_b/1410489898.png" alt=""></a>					    </div>
+                    					    <div class="item "><!--active-->
+						    <a href="http://onecentimetre.com/news_detail.php?nid=215"target="_blank"><img src="http://onecentimetre.com/upload/banner_b/1408616689.jpg" alt=""></a>					    </div>
+                    				  	</div>
+				  	<a class="left carousel-control" href="#carousel-example-generic" data-slide="prev" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('bnPrev','','images/banner_prevover.png')">
+				    	<img src="http://onecentimetre.com/images/banner_prev.png" alt="" name="bnPrev">
+				  	</a>
+				  	<a class="right carousel-control" href="#carousel-example-generic" data-slide="next" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('bnNext','','images/banner_nextover.png')">
+				    	<img src="http://onecentimetre.com/images/banner_next.png" alt="" name="bnNext">
+				  	</a>
+				</div>
+			</div>
+			<div class="content_section">
+				<div class="content_sectionL">
+
+					<!-- 內文 Start -->
+                    					<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=470" class="btn">最危險交通一次通通來！以為只是惡搞影片，殊不知在印度竟是家常便飯？</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=2">A</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.17.14&nbsp;/&nbsp;Wednesday&nbsp;/&nbsp;IIIVI                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=470" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=470" class="btn"><img src="http://onecentimetre.com/upload/news/m1410933497.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							這部影片由導演Fernando Livschitz精心後置調配出來的「Rush hour」。匆匆忙忙交叉路口隱藏著各種交通事故的危險因子，經過電腦後期製作，讓原本該發生的…							<a href="http://onecentimetre.com/news_detail.php?nid=470" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0470','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0470" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+													</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=468" class="btn">這個地方看起來平凡無奇，但是仔細看看你才會發現，這根本可以說是全世界最便宜卻最有創意的辦公室！</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=2">A</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.17.14&nbsp;/&nbsp;Wednesday&nbsp;/&nbsp;Ariel                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=468" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=468" class="btn"><img src="http://onecentimetre.com/upload/news/m1410931976.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							&ldquo;辦公室&rdquo;這三個字，每次聽起來總是覺得很嚴肅，因為這就是一個讓你辦公的地方，尤其是有著木頭毛氈灰色隔板的辦公室，更讓我覺得是一個死氣沈沈了無生趣的…							<a href="http://onecentimetre.com/news_detail.php?nid=468" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0468','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0468" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+													</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=467" class="btn">融合現代美學與古代藝術的透明金字塔幾何住宅，能夠入住的人真是太幸福了！</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=3">T</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.17.14&nbsp;/&nbsp;Wednesday&nbsp;/&nbsp;Ariel                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=467" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=467" class="btn"><img src="http://onecentimetre.com/upload/news/m1410928612.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							每個人都心中，應該或多或少都會自己未來的住所有些勾勒，雖然說，在我們台灣這種地狹人稠的環境中，能有一個舒適的家就已經很幸福了，但是總還是會有些美妙的想法，讓我們對生活能夠…							<a href="http://onecentimetre.com/news_detail.php?nid=467" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0467','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0467" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+							<div style="margin-top: 30px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_mobile_300x250_下 --><ins class="adsbygoogle" style="display:block" data-ad-region= "test" data-ad-client="ca-pub-3087926956353178" data-ad-host="ca-host-pub-7475939466736018" data-ad-slot="1774331244" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>						</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=466" class="btn">嘿、忙碌的妳還記得嗎？3年前的今天，有群人占領華爾街發動了99%對抗1%的戰爭</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=4">S</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.17.14&nbsp;/&nbsp;Wednesday&nbsp;/&nbsp;NEO                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=466" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=466" class="btn"><img src="http://onecentimetre.com/upload/news/m1410925809.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							
+
+3年前的今天，千餘名抗議者齊聚華爾街旁的祖科蒂公園，拉開了&quot;占領華爾街&quot;的運動序幕。占領華爾街的口號讓人一見難忘、1%與99%的戰爭。社會上絕…							<a href="http://onecentimetre.com/news_detail.php?nid=466" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0466','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0466" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+													</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=465" class="btn">在等這個紅綠燈時，上面的小紅人絕對會讓你欲罷不能，巴不得永遠都不要綠燈！</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=2">A</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.17.14&nbsp;/&nbsp;Wednesday&nbsp;/&nbsp;Ariel                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=465" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=465" class="btn"><img src="http://onecentimetre.com/upload/news/m1410923742.png" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							我們每個人的一生中，我想有很多時間都是用來等待，大至等待你生命中對的人，小至等待街口的那個紅綠燈，而也因為我們常常懶的等待，急匆匆的想要跨越生命中這些你必須慢慢來的事情而…							<a href="http://onecentimetre.com/news_detail.php?nid=465" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0465','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0465" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+													</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=464" class="btn">世界上最深不見底的游泳池，室內深潛的神奇體驗</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=2">A</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.16.14&nbsp;/&nbsp;Tuesday&nbsp;/&nbsp;Ariel                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=464" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=464" class="btn"><img src="http://onecentimetre.com/upload/news/m1410861716.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							不知道大家對於游泳這件事在不在行，雖然我小時候有去上過游泳課，但是每次一看到游泳池就失心瘋，跳進去就玩瘋了，教練說的話通通都沒聽到，導致我到現在其實離&quot;水中好手…							<a href="http://onecentimetre.com/news_detail.php?nid=464" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0464','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0464" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+							<div style="margin-top: 30px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_mobile_300x250_下 --><ins class="adsbygoogle" style="display:block" data-ad-region= "test" data-ad-client="ca-pub-3087926956353178" data-ad-host="ca-host-pub-7475939466736018" data-ad-slot="1774331244" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>						</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=463" class="btn">玩轉化妝彩繪藝術，簡單的黑白對比卻創造強烈直擊人心的視覺效果</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=2">A</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.16.14&nbsp;/&nbsp;Tuesday&nbsp;/&nbsp;NEO                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=463" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=463" class="btn"><img src="http://onecentimetre.com/upload/news/m1410859524.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							想想我們人類真是很富有冒險精神的，新生小寶寶靠著雙手探索世界，抓到什麼就放進嘴裡咬咬；現代人更是樂此不疲地將各種顏料塗抹在自己臉上，不斷揣摩推陳出新的亮眼彩妝。各式人體彩…							<a href="http://onecentimetre.com/news_detail.php?nid=463" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0463','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0463" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+													</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=462" class="btn">旅遊巴黎的最新玩法讓我們告訴你，這麼精彩的浪漫之都你一定沒看過</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=2">A</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.16.14&nbsp;/&nbsp;Tuesday&nbsp;/&nbsp;Ariel                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=462" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=462" class="btn"><img src="http://onecentimetre.com/upload/news/m1410858068.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							巴黎這個以浪漫聞名的都市，在許多人心中，都又各自不同對他的美麗想像，我也是，雖然曾經短暫的在巴黎鐵塔與凱旋門前，留下匆匆的身影，但是，卻還沒有機會細細品嘗他的美，對我來說…							<a href="http://onecentimetre.com/news_detail.php?nid=462" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0462','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0462" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+													</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=461" class="btn">專治囂張秋老虎！看冰淇淋融化，心情就這樣涼涼了起來</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=2">A</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.16.14&nbsp;/&nbsp;Tuesday&nbsp;/&nbsp;IIIVI                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=461" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=461" class="btn"><img src="http://onecentimetre.com/upload/news/m1410856901.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							根據下午中央氣象局發佈進入九月的台灣，氣溫不只創下37.8度的高溫襲擊，還打破68年的九月記錄。關於這則新聞，我只能先說辛苦了，在這天氣還要出門奔走的朋友們！
+
+雖然…							<a href="http://onecentimetre.com/news_detail.php?nid=461" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0461','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0461" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+							<div style="margin-top: 30px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_mobile_300x250_下 --><ins class="adsbygoogle" style="display:block" data-ad-region= "test" data-ad-client="ca-pub-3087926956353178" data-ad-host="ca-host-pub-7475939466736018" data-ad-slot="1774331244" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>						</div>
+					</div>
+										<div class="content_block">
+                    
+						<div class="title">
+							<div class="titleL"><h3><a href="http://onecentimetre.com/news_detail.php?nid=460" class="btn">被擁在刺青雙臂懷裡更顯溫暖！這只是剛開始，屬於年輕爸媽的世代象徵</a></h3></div>
+							<div class="titleR"><a href="http://onecentimetre.com/news.php?ntid=4">S</a></div>
+						</div>
+						<div class="date">
+                            <span><img src="http://onecentimetre.com/images/icon_cal.png" height="19" width="23" alt=""></span>
+							<span class="date_text">
+							    09.16.14&nbsp;/&nbsp;Tuesday&nbsp;/&nbsp;IIIVI                            </span>
+							<div>
+                                <div class="fb-share-button" data-href="http://onecentimetre.com/news_detail.php?nid=460" data-layout="button"></div>
+								<div class="fb-like" data-href="https://www.facebook.com/onecentimetre" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+							</div>
+						</div>
+						<div class="thumbimg"><a href="http://onecentimetre.com/news_detail.php?nid=460" class="btn"><img src="http://onecentimetre.com/upload/news/m1410854791.jpg" height="284" alt="" onerror="javascript:this.src='images/nopic.png'"></a></div>
+						<div class="description">
+							被爸媽抱在懷裡的小孩，這畫面我們早已經習以為常，但說起溫暖若是兒童被抱在雙臂充滿刺青的懷裡，這是不是更讓人心暖？無意間在網路上看到這組照片，每一張都是刺青爸媽與小孩互動中…							<a href="http://onecentimetre.com/news_detail.php?nid=460" class="btn" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image0460','','images/content_btnover.png')"><img src="http://onecentimetre.com/images/content_btn.png" name="image0460" alt=""></a>
+						</div>
+                        <div class="mobileADV visible-mobile mb_15">
+													</div>
+					</div>
+															<!-- 分頁 Start -->
+	                <div class="pagination_outer">
+						<div>
+							<ul class="pagination">
+							    <li class=active>1</li><li><a href=?ntid=&keyword=&page=2>2</a></li><li><a href=?ntid=&keyword=&page=3>3</a></li><li><a href=?ntid=&keyword=&page=4>4</a></li><li><a href=?ntid=&keyword=&page=5>5</a></li><li><a href=?ntid=&keyword=&page=6>6</a></li><li><a href=?ntid=&keyword=&page=2 onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('imageN','','images/page_nextover.png')"><img src="http://onecentimetre.com/images/page_next.png" height="18" width="31" alt="" name="imageN"></a></li>							</ul>
+						</div>
+					</div>
+					<!-- 分頁 End -->
+                    
+					<!-- 內文 End -->
+
+					<!-- scrollTop Start -->
+					<div class="bottom_scrollTop">
+						<a href="javascript: void(0)" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('image1','','images/scroll_topover.png'),'1'"><img src="http://onecentimetre.com/images/scroll_top.png" width="80" height="80" alt="" id="scrollTop" name="image1"></a>
+					</div>
+					<!-- scrollTop End -->
+
+				</div>
+
+				<!-- Sidebar Start -->
+				<aside class="content_sectionR hidden-mobile" id="sidebar">
+											<div class="content_blockAdv"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_全站_300x250_右1 --><ins class="adsbygoogle"     style="display:block"     data-ad-region= "test"     data-ad-client="ca-pub-3087926956353178"     data-ad-host="ca-host-pub-7475939466736018"     data-ad-slot="6483732448"     data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>
+					
+                    <div name="sfysmad" data="1CM_home_300x780_RT_pc" count="3"></div>
+                                        
+                    					<div class="content_blockAdv recommend_block">
+                        <a href="news_detail.php?nid=359">
+						<div class="thumbimg"><img src="http://onecentimetre.com/upload/news/s1409652538.jpg" alt=""></div>
+						<div class="title">完全被療癒！A4、A5水壺，讓人一邊喝水一邊笑</div>
+                        </a>
+					</div>
+                    					<div class="content_blockAdv recommend_block">
+                        <a href="news_detail.php?nid=359">
+						<div class="thumbimg"><img src="http://onecentimetre.com/upload/news/s1409652538.jpg" alt=""></div>
+						<div class="title">完全被療癒！A4、A5水壺，讓人一邊喝水一邊笑</div>
+                        </a>
+					</div>
+                    					<div class="content_blockAdv recommend_block">
+                        <a href="news_detail.php?nid=359">
+						<div class="thumbimg"><img src="http://onecentimetre.com/upload/news/s1409652538.jpg" alt=""></div>
+						<div class="title">完全被療癒！A4、A5水壺，讓人一邊喝水一邊笑</div>
+                        </a>
+					</div>
+                    					<div class="content_blockAdv recommend_block">
+                        <a href="news_detail.php?nid=359">
+						<div class="thumbimg"><img src="http://onecentimetre.com/upload/news/s1409652538.jpg" alt=""></div>
+						<div class="title">完全被療癒！A4、A5水壺，讓人一邊喝水一邊笑</div>
+                        </a>
+					</div>
+					<div class="content_blockFB">
+						<div class="fb-like-box" data-href="https://www.facebook.com/onecentimetre" data-width="300px" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+					</div>
+					<div class="visible-tablet">
+						
+											</div>
+					<div id="slidebar_adv" class="hidden-mobile">
+													<div class="content_blockAdv"><div><script>if(jQuery(window).width()>767) {							window.document.write('<scr'+'ipt async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></scr'						+'ipt><ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px"     data-ad-region= "test"     data-ad-client="ca-pub-3087926956353178" data-ad-host="ca-host-pub-7475939466736018"     data-ad-slot="7960465644"></ins><scr'+						'ipt>(adsbygoogle = window.adsbygoogle || []).push({});</scr'+'ipt>');};</script></div></div>
+						
+											</div>
+				</aside>
+				<!-- Sidebar End -->
+
+				<ul class="advertisement hidden-mobile"  >
+					<li><div style="width:336px; max-height:280px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_全站_336x280_左下 --><ins class="adsbygoogle"     style="display:block"     data-ad-region= "test"     data-ad-client="ca-pub-3087926956353178"     data-ad-host="ca-host-pub-7475939466736018"     data-ad-slot="9437198846"     data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></li>
+					<li><div style="width:336px; max-height:280px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_mobile_300x250_下 --><ins class="adsbygoogle" style="display:block" data-ad-region= "test" data-ad-client="ca-pub-3087926956353178" data-ad-host="ca-host-pub-7475939466736018" data-ad-slot="1774331244" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div></li>
+				</ul>
+				<div class="like_section hidden-mobile">
+                    <p style="margin-top: 0px;"><img src="http://onecentimetre.com/images/like_block_titleChoice.png" alt=""></p>
+
+                    <div name="sfysmad" data="1CM_home_725x305_B_pc" count="3"></div>
+                                        
+                    
+				</div>
+				<div class="like_section visible-mobile">
+					<p><img src="http://onecentimetre.com/images/like_block_titleChoice.png" alt=""></p>
+                    <div name="sfysmad" data="1CM_home_725x305_B_mo" count="2"></div>
+                    				</div>
+
+				<div class="fbslide hidden-mobile" id="fbslide">
+					<div class="closebtn"></div>
+					<p class="title">歡迎加入我們，<br />一同探索簡單有趣的生活品味：）</p>
+					<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2F1cm%2F761735067202346&amp;width=301&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100%;" allowTransparency="true"></iframe>
+				</div>
+									<div class="mobile_advertisement visible-mobile">
+						<div style="width:336px; max-height:280px;"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- 1CM_mobile_300x250_下 --><ins class="adsbygoogle" style="display:block" data-ad-region= "test" data-ad-client="ca-pub-3087926956353178" data-ad-host="ca-host-pub-7475939466736018" data-ad-slot="1774331244" data-ad-format="auto"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script></div>					</div>
+								<div class="mobile_advertisement visible-mobile">
+                    <div name="sfysmad" data="1CM_home_300x780_RT_mo" count="3"></div>
+                    				</div>
+			</div>
+			<div class="clear"></div>
+		</section>
+
+		<footer id="footer">
+			<!-- <ul class="hidden-mobile">
+				<li><img src="images/footer_logo.png" alt=""></li>
+				<li>2014 1CM MEDIA. ALL RIGHT RESERVED</li>
+				<li class="mailinfo"><a href="mailto:onecentimetremag@gmail.com">onecentimetremag@gmail.com</a></li>
+			</ul>
+			<div class="mobile_footer visible-mobile">
+				<img src="images/footer_logo.png" alt="">
+			</div> -->
+			<div class="footer_logo hidden-mobile">
+				<a href="http://onecentimetre.com/index.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('flogo','','images/flogoover.png'),'1'"><img src="http://onecentimetre.com/images/flogo.png" height="32" width="80" alt="" name="flogo"></a>
+			</div>
+			<ul>
+				<li class="footer_backindex"><a href="http://onecentimetre.com/index.php">返回首頁</a></li>
+				<li class="footer_gotop"><a href="javascript: void(0)">回到上方</a></li>
+				<li class="hidden-mobile"><a href="http://onecentimetre.com/about.php">關於我們</a></li>
+				<li class="hidden-mobile"><a href="http://onecentimetre.com/contact.php">聯絡我們</a></li>
+			</ul>
+		</footer>
+
+	</div>
+<!-- lazyload -->
+    <script type="text/javascript" src="http://onecentimetre.com/ui/lazyload-master/jquery.lazyload.js"></script>
+    <script>
+	$(document).ready(function(e) {
+        $(".content_block .thumbimg img").lazyload({
+            effect : "fadeIn",
+			//placeholder: "http://1.bp.blogspot.com/-Qt2R-bwAb4M/T8WKoNKBHRI/AAAAAAAACnA/BomA-Whl_Bk/s1600/grey.gif"
+        });
+    });
+    </script>
+</body>
+</html>
+<script type="text/javascript" src="/ysm/1cm/sf_ysm.js" id="sf_script" slot="1cm_home"></script>
