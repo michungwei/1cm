@@ -132,14 +132,6 @@ $db -> close();
 		})();
     </script>
 
-	<script>
-		googletag = window.googletag || {cmd:[]};
-		googletag.cmd.push(function() {
-			var mapping = googletag.sizeMapping().addSize([0, 0], [300, 250]).addSize([400, 0], [160, 600]).build();
-			googletag.defineSlot('/7682122/1CM_all_160x600_RT', [[160, 600], [300, 250]], 'div-gpt-ad-1411546601925-0').defineSizeMapping(mapping).addService(googletag.pubads());
-    	    googletag.enableServices();
-		});
-	</script>
 	<script type="text/javascript" src="ysm/1cm/sf_ysm.js" id="sf_script" slot="1cm_home"></script>
 	<script type="text/javascript" src="ysm/1cm/sf_ysm_hk.js" id="sf_hk_script"></script>
 	<?php include_once("analytics.php"); ?>
@@ -358,7 +350,8 @@ $db -> close();
 						<!--<div name="sfysmad" data="1CM_home_300x780_RT_pc" count="3" ></div>-->
 						<div class="content_blockFB">
 							<!--<div class="fb-like-box" data-href="https://www.facebook.com/1cmLife" data-width="300px" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>-->
-							<div class="fb-like-box" data-href="<?php if($ntid == 10) echo $web_fb_url; else echo $web_fb_url;?>" data-width="300" data-height="600" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>
+							<!--<div class="fb-like-box" data-href="<?php if($ntid == 10) echo $web_fb_url; else echo $web_fb_url;?>" data-width="300" data-height="600" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>-->
+							<div class="fb-page" data-href="<?php echo $web_fb_url;?>" data-hide-cover="true" data-show-facepile="true" data-show-posts="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="<?php echo $web_fb_url;?>"><a href="<?php echo $web_fb_url;?>">1CM 質感生活</a></blockquote></div></div>
 						</div>
 					</div>
 					<div class="visible-tablet">
@@ -461,9 +454,9 @@ $db -> close();
             effect : "fadeIn",
 			//placeholder: "http://1.bp.blogspot.com/-Qt2R-bwAb4M/T8WKoNKBHRI/AAAAAAAACnA/BomA-Whl_Bk/s1600/grey.gif"
         });*/
-		$(".popupBox-close").hide();
+		/*$(".popupBox-close").hide();
 		$("#popupBox").hide();
-		popupDiv("popupBox");
+		popupDiv("popupBox");*/
     });
     </script>
 </body>
